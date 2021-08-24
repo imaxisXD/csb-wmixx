@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://imaxisxd.github.io/csb-wmixx/static/css/main.caeb5628.chunk.css",
+    "main.js": "https://imaxisxd.github.io/csb-wmixx/static/js/main.7bd11a60.chunk.js",
+    "main.js.map": "https://imaxisxd.github.io/csb-wmixx/static/js/main.7bd11a60.chunk.js.map",
+    "runtime-main.js": "https://imaxisxd.github.io/csb-wmixx/static/js/runtime-main.75a1e78a.js",
+    "runtime-main.js.map": "https://imaxisxd.github.io/csb-wmixx/static/js/runtime-main.75a1e78a.js.map",
+    "static/js/2.ac6e4309.chunk.js": "https://imaxisxd.github.io/csb-wmixx/static/js/2.ac6e4309.chunk.js",
+    "static/js/2.ac6e4309.chunk.js.map": "https://imaxisxd.github.io/csb-wmixx/static/js/2.ac6e4309.chunk.js.map",
+    "index.html": "https://imaxisxd.github.io/csb-wmixx/index.html",
+    "static/css/main.caeb5628.chunk.css.map": "https://imaxisxd.github.io/csb-wmixx/static/css/main.caeb5628.chunk.css.map",
+    "static/js/2.ac6e4309.chunk.js.LICENSE.txt": "https://imaxisxd.github.io/csb-wmixx/static/js/2.ac6e4309.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a1e78a.js",
+    "static/js/2.ac6e4309.chunk.js",
+    "static/css/main.caeb5628.chunk.css",
+    "static/js/main.7bd11a60.chunk.js"
+  ]
+}
